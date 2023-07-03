@@ -21,3 +21,10 @@
 
 ### Lesson 7 ###
 [Concatenation and repetition](https://github.com/h-chagas/python_practicing/blob/main/lesson7.py)
+
+
+
+<details>
+    <summary>Challenges</summary>
+    <p>[If, string concatenation]()</p>
+</details>
