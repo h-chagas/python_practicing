@@ -26,5 +26,5 @@
 
 <details>
     <summary>Challenges</summary>
-    <p>[If, string concatenation]()</p>
+    <p>[If, string concatenation](https://github.com/h-chagas/python_practicing/blob/main/challenges/imc.py)</p>
 </details>
