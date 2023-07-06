@@ -22,6 +22,12 @@
 ### Lesson 7 ###
 [Concatenation and repetition](https://github.com/h-chagas/python_practicing/blob/main/lesson7.py)
 
+### Lesson 8 ###
+[Input function (collect data from user)](https://github.com/h-chagas/python_practicing/blob/main/lesson8.py)
+
+### Lesson 9 ###
+[Relational operators](https://github.com/h-chagas/python_practicing/blob/main/lesson9.py)
+
 
 
 <details>
