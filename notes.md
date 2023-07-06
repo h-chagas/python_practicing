@@ -20,3 +20,13 @@ How to use debugger:
 * Choose to run in a Python file (it will create a launch.json file)
 * Use breakpoints to debug the code (pressing in just before the line number - a red dot will appear to mark the breakpoint)
 * Press the "step over" arrow (in the popped menu on the top). Each line of the code will be read after pressing this arrow
+
+
+
+Interactive Python shell:
+python -i <filename>
+
+To exit of the interactive shell, just type quit() OR exit()
+
+
+
