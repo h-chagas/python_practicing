@@ -44,6 +44,6 @@
 
 <details>
     <summary>Challenges</summary>
-    <p>[If, string concatenation](https://github.com/h-chagas/python_practicing/blob/main/challenges/imc.py)</p>
-    <p>[find in the word - using in](https://github.com/h-chagas/python_practicing/blob/main/challenges/find_in_the_word.py)</p>
+    <p> [If, string concatenation](https://github.com/h-chagas/python_practicing/blob/main/challenges/imc.py) </p>
+    <p> [find in the word - using in](https://github.com/h-chagas/python_practicing/blob/main/challenges/find_in_the_word.py) </p>
 </details>
