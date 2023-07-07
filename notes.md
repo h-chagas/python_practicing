@@ -1,5 +1,10 @@
 ### Python Notes ###
 
+#### Built-in types for str: ####
+[Built-in types - STR methods](https://docs.python.org/3/library/stdtypes.html#string-methods)
+[Built-in types - INT methods](https://docs.python.org/3/library/stdtypes.html#additional-methods-on-integer-types)
+[Built-in types - FLOAT methods](https://docs.python.org/3/library/stdtypes.html#additional-methods-on-float)
+
 
 #
 This is used for comment out in Python module

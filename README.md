@@ -40,10 +40,32 @@
 ### Lesson 13 ###
 [ String slice ](https://github.com/h-chagas/python_practicing/blob/main/lesson13.py)
 
+### Lesson 14 ###
+[ Try / except introduction ](https://github.com/h-chagas/python_practicing/blob/main/lesson14.py)
 
+### Lesson 15 ###
+[ Variables, constants, code complexity, id() ](https://github.com/h-chagas/python_practicing/blob/main/lesson15.py)
+
+### Lesson 16 ###
+[ Flags, is, is not and None ](https://github.com/h-chagas/python_practicing/blob/main/lesson16.py)
+
+### Lesson 17 ###
+[ Immutable types ](https://github.com/h-chagas/python_practicing/blob/main/lesson17.py)
+
+### Lesson 18 ###
+[ While loop (break and continue) and Assignment operators ](https://github.com/h-chagas/python_practicing/blob/main/lesson18.py)
+
+### Lesson 19 ###
+[ Nested while loop ](https://github.com/h-chagas/python_practicing/blob/main/lesson19.py)
 
 <details>
     <summary>Challenges</summary>
     <p> [If, string concatenation](https://github.com/h-chagas/python_practicing/blob/main/challenges/imc.py) </p>
-    <p> [find in the word - using in](https://github.com/h-chagas/python_practicing/blob/main/challenges/find_in_the_word.py) </p>
+    <p> [Find in the word - using in](https://github.com/h-chagas/python_practicing/blob/main/challenges/find_in_the_word.py) </p>
+    <p> [Strings](https://github.com/h-chagas/python_practicing/blob/main/challenges/strings.py) </p>
+    <p> [Even or Odd](https://github.com/h-chagas/python_practicing/blob/main/challenges/even_or_odd.py) </p>
+    <p> [Greetings](https://github.com/h-chagas/python_practicing/blob/main/challenges/greetings.py) </p>
+    <p> [Length of the name](https://github.com/h-chagas/python_practicing/blob/main/challenges/name_length.py) </p>
+    <p> [While loop](https://github.com/h-chagas/python_practicing/blob/main/challenges/while_loop.py) </p>
+    <p> [Calculator with While loop](https://github.com/h-chagas/python_practicing/blob/main/challenges/calculator_with_while_loop.py) </p>
 </details>
